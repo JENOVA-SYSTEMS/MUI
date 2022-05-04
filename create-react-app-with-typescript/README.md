@@ -18,7 +18,9 @@ https://github.com/mui/material-ui/tree/v5.5.2/docs/data/material/getting-starte
 https://dev.classmethod.jp/articles/using-the-management-screen-template-of-mui/
 
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+以下テンプレート雛形のインストール方法
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # Create React App example with TypeScript
 
 ## How to use
