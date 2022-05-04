@@ -1,3 +1,24 @@
+2022/5/4
+### これはMUI template dashboardを使ったプロジェクトです。
+reactプロジェクトの雛形にexample templateのcreate-react-app-with-typescriptを利用し、
+そこにdashboard templateを追加したものになります。
+
+
+example template
+https://github.com/mui/material-ui/tree/master/examples/create-react-app-with-typescript
+
+
+
+dashboard template
+https://github.com/mui/material-ui/tree/v5.5.2/docs/data/material/getting-started/templates/dashboard
+
+
+
+参考記事
+https://dev.classmethod.jp/articles/using-the-management-screen-template-of-mui/
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # Create React App example with TypeScript
 
 ## How to use
