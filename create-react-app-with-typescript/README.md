@@ -16,8 +16,7 @@ https://github.com/mui/material-ui/tree/v5.5.2/docs/data/material/getting-starte
 
 参考記事
 https://dev.classmethod.jp/articles/using-the-management-screen-template-of-mui/
-
-
+※react-app/src/App.tsxはエラーが出たので少し変更しました。
 
 
 
