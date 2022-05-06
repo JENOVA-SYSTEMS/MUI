@@ -5,16 +5,25 @@ reactプロジェクトの雛形にexample templateのcreate-react-app-with-type
 
 
 example template
+
+* react appの雛形はここのcreate-react-app-with-typescriptテンプレートを使用した。
+
 https://github.com/mui/material-ui/tree/master/examples/create-react-app-with-typescript
 
 
 
 dashboard template
+
+* 以下dashboardtemplateを導入
+
 https://github.com/mui/material-ui/tree/v5.5.2/docs/data/material/getting-started/templates/dashboard
 
 
 
 参考記事
+
+App.tsxはこの記事を参考に作成しました。
+
 https://dev.classmethod.jp/articles/using-the-management-screen-template-of-mui/
 
 ※上記記事react-app/src/App.tsxはエラーが出たので少し変更しました。
