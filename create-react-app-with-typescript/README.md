@@ -4,17 +4,17 @@ reactプロジェクトの雛形にexample templateのcreate-react-app-with-type
 そこにdashboard templateを追加したものになります。
 
 
-example template
+* example template
 
-* react appの雛形はここのcreate-react-app-with-typescriptテンプレートを使用した。
+react appの雛形はここのcreate-react-app-with-typescriptテンプレートを使用した。
 
 https://github.com/mui/material-ui/tree/master/examples/create-react-app-with-typescript
 
 
 
-dashboard template
+* dashboard template
 
-* 以下dashboardtemplateを導入
+以下dashboard templateを導入
 
 https://github.com/mui/material-ui/tree/v5.5.2/docs/data/material/getting-started/templates/dashboard
 
