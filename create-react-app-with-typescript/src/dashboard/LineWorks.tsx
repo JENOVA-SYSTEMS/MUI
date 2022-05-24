@@ -25,47 +25,14 @@ export default function Chart() {
 
   return (
     <React.Fragment>
-      <Title>LineWorks</Title>
-      {/* <ResponsiveContainer>
-        <LineChart
-          data={data}
-          margin={{
-            top: 16,
-            right: 16,
-            bottom: 0,
-            left: 24,
-          }}
-        >
-          <XAxis
-            dataKey="time"
-            stroke={theme.palette.text.secondary}
-            style={theme.typography.body2}
-          />
-          <YAxis
-            stroke={theme.palette.text.secondary}
-            style={theme.typography.body2}
-          >
-            <Label
-              angle={270}
-              position="left"
-              style={{
-                textAnchor: 'middle',
-                fill: theme.palette.text.primary,
-                ...theme.typography.body1,
-              }}
-            >
-              Sales ($)
-            </Label>
-          </YAxis>
-          <Line
-            isAnimationActive={false}
-            type="monotone"
-            dataKey="amount"
-            stroke={theme.palette.primary.main}
-            dot={false}
-          />
-        </LineChart>
-      </ResponsiveContainer> */}
-    </React.Fragment>
+      <Title>スケジュール</Title>
+      <div>
+      <Iframe id = 'schedule'
+                    url = 'https://calendar.google.com/calendar/embed?height=400&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FTokyo&mode=AGENDA&showTitle=0&showNav=1&showPrint=0&showTz=0&showCalendars=1&showDate=1&src=amVub3Zha2FucmlAZ21haWwuY29t&src=bzd1OHU1OWJtaGRnNmwxdmZhbXQzMDlzZjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=amEuamFwYW5lc2UjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039BE5&color=%23EF6C00&color=%2333B679&color=%230B8043" style="border:solid 1px #777" width="800" height="400" frameborder="0" scrolling="no"'
+                    position='relative'
+                    width='100%'
+                    height='150%' />
+        </div>
+     </React.Fragment>
   );
 }
