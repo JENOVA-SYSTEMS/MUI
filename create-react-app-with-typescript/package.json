@@ -9,8 +9,12 @@
     "@mui/material": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
+    "aws-amplify": "^4.3.21",
     "react": "latest",
     "react-dom": "latest",
+    "react-iframe": "^1.8.0",
+    "react-mui-scheduler": "^2.0.4",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "latest",
     "recharts": "^2.1.9",
     "typescript": "latest"
